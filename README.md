@@ -21,7 +21,7 @@ I'm Toufiq, a student and developer from Bangladesh.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/toufiq7r/nour">yal</a></td>
+      <td><a href="https://github.com/toufiq7r/yet-another-language">yal</a></td>
       <td>an interpreted language with built-in garbage collection (in dev)</td>
     </tr>
     <tr>
