@@ -36,6 +36,6 @@ I'm Toufiq, a student and developer from Bangladesh.
   </tbody>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=5010&pause=1000&color=41B883&multiline=true&width=435&lines=%5B+0x0F7A01D0+%5D+--+Kernel+panic+-+not+syncing%3A+Fatal+exception+in+interrupt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=5010&pause=1000&color=41B883&multiline=true&width=435&lines=%5B+0x0F7A1D+%5D+--+Kernel+panic+-+not+syncing%3A+Fatal+exception+in+interrupt)](https://git.io/typing-svg)
 <!--  TOP LANGUAGES STATISTICS -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqahmedshr&theme=dark&layout=compact&align=right&width=40%)](https://github.com/toufiqahmedshr/github-readme-stats) -->
