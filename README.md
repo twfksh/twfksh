@@ -21,7 +21,11 @@ I'm Toufiq, a student and developer from Bangladesh.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/toufiqahmedshr/nour">nour</a></td>
+      <td><a href="https://github.com/toufiq7r/nour">yal</a></td>
+      <td>an interpreted language with built-in garbage collection. (in dev)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/toufiq7r/nour">nour</a></td>
       <td>an AI assistant designed to provide intelligent support, information, and assistance through natural language interactions. (in dev)</td>
     </tr>
     <tr>
