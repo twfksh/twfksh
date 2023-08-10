@@ -23,12 +23,12 @@
 
 📝 **Blog**: planning on deploying my blog which can be found [here](https://toufiq7r.github.io/blog/), also, recent deployment of my website: [toufiq7r.github.io](https://toufiq7r.github.io/)
 
-<div align="center">
+<!-- <div align="center"> -->
   
-#### `👨‍💻` SOME TOOLS MINE
+#### `👨‍💻` 9TOOLSMINE
 [![](https://skillicons.dev/icons?i=c,cpp,python,git,bash,powershell,visualstudio,vscode,linux)](https://skillicons.dev)
 
-</div>
+<!-- </div> -->
 
 <!-- ### My Github Stats -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=toufiqahmedshr&show_icons=true&count_private=true&theme=dark" alt="toufiqahmedshr" /> -->
