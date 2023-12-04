@@ -25,7 +25,7 @@
 
 <!-- <div align="center"> -->
   
-#### `👨‍💻` 9TOOLSMINE
+#### `👨‍💻` 9TOOLMINE
 [![](https://skillicons.dev/icons?i=c,cpp,python,git,bash,powershell,visualstudio,vscode,linux)](https://skillicons.dev)
 
 <!-- </div> -->
