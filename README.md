@@ -21,7 +21,7 @@
 
 ⭐ **Certifications**: `Cisco IT Essentials`
 
-📝 **Blog**: planning on deploying my blog which can be found [here](https://toufiq7r.github.io/blog/), also, recent deployment of my website: [toufiq7r.github.io](https://toufiq7r.github.io/)
+📝 **Blog**: [toufiq7r.github.io](https://toufiq7r.github.io/)
 
 <!-- <div align="center"> -->
   
