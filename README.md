@@ -8,8 +8,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/toufiqahmedshr) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/toufiqahmedshr) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toufiqahmedshr/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/toufiqahmedshr) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.toufiqahmedshr@gmail.com)
 
 -->
-
-🌱 **Projects**:
+<!--
+🌱 **Projects**: 
 
 - `💉` **`yet-another-language`**<br>
 \\___[ an interpreted language with built-in garbage collection (in dev)<br>
@@ -18,7 +18,7 @@
 - `🐧` **`nour`**<br>
 \\___[ an AI assistant designed to provide intelligent support, information, and assistance through natural language interactions (in dev)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python` ]
-
+-->
 ⭐ **Certifications**: `Cisco IT Essentials`
 
 📝 **Blog**: [toufiq7r.github.io](https://toufiq7r.github.io/)
