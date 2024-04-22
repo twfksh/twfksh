@@ -27,7 +27,7 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=toufiq7r&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
 
 #### `👨‍💻` 9TOOLMINE
-[![](https://skillicons.dev/icons?i=c,cpp,python,git,bash,powershell,visualstudio,vscode,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=neovim,c,cpp,python,fastapi,git,bash,linux)](https://skillicons.dev)
 
 <!-- </div> -->
 
