@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq7r&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
 </a>
 <a href="https://github.com/toufiq7r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=touriq7r&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toufiq7r&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
 </a>
 
 <!-- </div> -->
