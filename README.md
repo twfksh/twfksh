@@ -21,7 +21,7 @@
 -->
 ⭐ **Certifications**: `Cisco IT Essentials`
 
-📝 **Blog**: [toufiq7r.github.io](https://toufiq7r.github.io/)
+📝 **Blog**: [twfksh.github.io](https://twfksh.github.io/)
 
 <!-- <div align="center"> -->
 <!-- [![](https://visitcount.itsvg.in/api?id=toufiq7r&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
