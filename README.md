@@ -27,7 +27,7 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=toufiq7r&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
 
 #### `👨‍💻` 9TOOLMINE
-[![](https://skillicons.dev/icons?i=neovim,c,cpp,python,fastapi,javascript,git,bash,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,python,fastapi,javascript,typescript,node,git,postgres,neovim)](https://skillicons.dev)
 
 <!-- <a href="https://github.com/toufiq7r">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq7r&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
