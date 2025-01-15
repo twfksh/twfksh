@@ -27,7 +27,7 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=toufiq7r&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
 
 #### `👨‍💻` FEWTOOLMINE
-[![](https://skillicons.dev/icons?i=c,python,fastapi,django,postgres,neovim,git,docker)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,python,pytorch,fastapi,django,postgres,neovim,git,docker)](https://skillicons.dev)
 
 <!-- <a href="https://github.com/toufiq7r">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq7r&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
